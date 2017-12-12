@@ -4,7 +4,9 @@ public class Hangman {
 	public static HashMap<Integer, String> strikes = new HashMap<Integer, String>();
 	public static String[] words = {"patrick", "pizza", "food", "sadness", "computer", "fun", "update",
 			"gradle", "cipher", "console", "eclipse", "execution", "project", "illinois",
-			"snow", "christmas", "california", "javadoc", "crossword", "tests"};
+			"snow", "christmas", "california", "javadoc", "crossword", "tests", "workspace", "assignment", "play", "hangman", "challen", "lawrence",
+			"bookmarks", "file", "edit", "view", "main", "java", "python", "keyboard", "phone", "laptop", "runtime", "apple", "orange", "grape", "banana",
+			"fruits"};
 	
 	
 	public static void main(String[] args) {

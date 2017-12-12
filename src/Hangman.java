@@ -77,8 +77,8 @@ public class Hangman {
 		Scanner input = new Scanner(System.in);
 		
 		System.out.println("WELCOME TO HANGMEN!");
-		System.out.println(correctWord1);
-		System.out.println(correctWord2);
+		//System.out.println(correctWord1);
+		//System.out.println(correctWord2);
 		
 		boolean finishedGame1 = false;
 		boolean finishedGame2 = false;
